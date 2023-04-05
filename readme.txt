@@ -3,5 +3,5 @@ Script ready for sites
   * biology mock test     ☑️
   * chemistry mock test   ☑️
   * physics mock test     ☑️
-  * mix mock test         🔲
+  * mix mock test         ☑️
 -> https://www.neetprep.com/questions/                    🔲
